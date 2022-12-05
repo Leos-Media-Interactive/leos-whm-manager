@@ -14,8 +14,7 @@
         "livewire/livewire": "^2.5",
         "opcodesio/log-viewer": "^1.7",
         "rappasoft/laravel-livewire-tables": "^2.8",
-        "spatie/laravel-permission": "^5.7",
-      "ext-ssh2": "*"
+        "spatie/laravel-permission": "^5.7"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
